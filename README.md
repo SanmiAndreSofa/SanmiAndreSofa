@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanmiAndreSofa
-- What would it take to build a generalised medical intelligence system?
+- What would it take to build a general medical intelligence system? A medical assistant of some sort.
 - 👀 
 - 🌱 
 - 💞️
