@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanmiAndreSofa
-- 👀 What would it take to build a general medical intelligence system? A robotic medical assistant of some sort.
+- 👀 What would it take to build a general medical intelligent system? A robotic medical assistant of some sort.
 - 🌱 
 - 💞️
 
